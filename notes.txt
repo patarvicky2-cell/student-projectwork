@@ -1,0 +1,2 @@
+this is a notes file
+to create a file we will used a touch command to create a blank file 
